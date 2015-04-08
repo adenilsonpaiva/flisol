@@ -10,13 +10,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="400"
-   height="400"
+   width="1200"
+   height="1200"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="contador-curitiba-01-dias.svg"
-   inkscape:export-filename="/home/phls/Dropbox/eventos/flisol/2015/banners/contador/contador-curitiba-01-dia.png"
+   sodipodi:docname="contador-curitiba-00-dia.svg"
+   inkscape:export-filename="/home/phls/Dropbox/eventos/flisol/2015/comunicacao-curitiba/contador/contador-curitiba-00-dia.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -654,7 +654,7 @@
        fx="340.39548"
        fy="649.98431"
        r="453.19284"
-       gradientTransform="matrix(0.45526608,0,0,0.46085582,44.311786,650.39985)"
+       gradientTransform="matrix(1.3458712,0,0,1.3623958,144.7697,-154.8956)"
        gradientUnits="userSpaceOnUse" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
@@ -1432,15 +1432,6 @@
        inkscape:vp_z="744.09448 : 526.18109 : 1"
        inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
        id="perspective387" />
-    <filter
-       inkscape:collect="always"
-       id="filter5366"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         id="feGaussianBlur5368"
-         stdDeviation="2.7286441" />
-    </filter>
     <linearGradient
        id="linearGradient3843">
       <stop
@@ -1762,33 +1753,6 @@
        fx="-13397.574"
        fy="-313.87469"
        r="432.04001" />
-    <filter
-       inkscape:collect="always"
-       id="filter6199"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="8.2793697"
-         id="feGaussianBlur6201" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter6203"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="8.2793697"
-         id="feGaussianBlur6205" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter6249"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="5.1411094"
-         id="feGaussianBlur6251" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1018"
@@ -1983,7 +1947,7 @@
        x2="730.74109"
        y2="-3.1607144"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.50916892,0,0,0.50916892,13.536316,660.57186)" />
+       gradientTransform="matrix(1.5052204,0,0,1.5052204,61.790339,-124.8248)" />
     <filter
        color-interpolation-filters="sRGB"
        id="filter4286">
@@ -2549,24 +2513,6 @@
          inkscape:collect="always"
          stdDeviation="1.5662296"
          id="feGaussianBlur4810-0-2" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter4808-3-6-5"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.5662296"
-         id="feGaussianBlur4810-0-2-6" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter4808-3-6-5-1"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.5662296"
-         id="feGaussianBlur4810-0-2-6-6" />
     </filter>
     <linearGradient
        inkscape:collect="always"
@@ -5459,9 +5405,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9899495"
+     inkscape:zoom="0.49497475"
      inkscape:cx="298.22627"
-     inkscape:cy="196.35889"
+     inkscape:cy="734.31395"
      inkscape:document-units="px"
      inkscape:current-layer="g3570"
      showgrid="false"
@@ -5490,38 +5436,38 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-652.36218)">
+     transform="translate(0,147.63782)">
     <path
        style="fill:url(#radialGradient4797);fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m -7.0410312,644.34361 412.6466412,0 0,417.71309 -412.6466412,0 z"
+       d="m -7.0410312,-172.79924 1219.8783312,0 0,1234.85594 -1219.8783312,0 z"
        id="rect2996"
        inkscape:connector-curvature="0" />
     <path
        id="path9801"
-       d="m 292.179,654.78006 -12.26778,1.03425 118.20675,76.8686 0,-77.90285 -105.93897,0 z"
+       d="m 885.52218,-141.9467 -36.26638,3.05749 349.4463,227.241252 0,-230.298742 -313.17992,0 z"
        style="opacity:0.36280488;fill:#000000;fill-opacity:1;stroke:none"
        inkscape:connector-curvature="0" />
     <path
        style="fill:url(#linearGradient9799);fill-opacity:1;stroke:none"
-       d="m 294.21568,652.74339 -12.26779,1.03425 118.20675,76.86859 0,-77.90284 -105.93896,0 z"
+       d="m 891.54308,-147.96756 -36.26641,3.05748 349.44633,227.241228 0,-230.298708 -313.17992,0 z"
        id="path9767"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:26.45416641px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.63219953;stroke-opacity:1;font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
-       x="643.68896"
-       y="379.8764"
+       style="font-size:78.20459747px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.86892712;stroke-opacity:1;font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
+       x="771.51971"
+       y="-619.69818"
        id="text3927"
        sodipodi:linespacing="125%"
        transform="matrix(0.83299504,0.55328046,-0.55328046,0.83299504,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3929"
-         x="643.68896"
-         y="379.8764"
-         style="font-weight:normal;fill:#ffffff;stroke:#ffffff;stroke-width:0.63219953;stroke-opacity:1;-inkscape-font-specification:Comfortaa">LIVRE!</tspan></text>
+         x="771.51971"
+         y="-619.69818"
+         style="font-weight:normal;fill:#ffffff;stroke:#ffffff;stroke-width:1.86892712;stroke-opacity:1;-inkscape-font-specification:Comfortaa">LIVRE!</tspan></text>
     <g
        id="g4004"
-       transform="matrix(1.1669811,0,0,1.1669811,-392.62089,-172.99203)">
+       transform="matrix(3.4498645,0,0,3.4498645,-1146.9038,-2589.0313)">
       <g
          id="g4447"
          transform="matrix(0.78587969,0,0,0.78587969,87.887182,195.49564)">
@@ -5575,23 +5521,26 @@
                      x="-318.8566"
                      style="font-size:58.67459869px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.96300006;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4808-3-6);font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
                      xml:space="preserve"
-                     transform="matrix(0.99149329,0,0,0.99149329,-7.3542164,-24.698731)"><tspan
+                     transform="matrix(2.9310821,0,0,2.9310821,908.6946,-1879.7208)"
+                     inkscape:export-filename="/home/phls/Dropbox/eventos/flisol/2015/comunicacao-curitiba/contador/contador-curitiba-00-dia.png"
+                     inkscape:export-xdpi="90"
+                     inkscape:export-ydpi="90"><tspan
                        style="stroke-width:3.96300006"
                        id="tspan4011-0-6"
                        y="681.27588"
                        x="-318.8566"
-                       sodipodi:role="line">É amanhã!</tspan></text>
+                       sodipodi:role="line">É hoje!</tspan></text>
                   <text
                      sodipodi:linespacing="125%"
                      id="text4005-3-5-5"
-                     y="650.09186"
-                     x="-323.48065"
-                     style="font-size:58.17547226px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
+                     y="115.1153"
+                     x="-25.84783"
+                     style="font-size:171.98007202px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
                      xml:space="preserve"><tspan
                        id="tspan4011-2-9-1"
-                       y="650.09186"
-                       x="-323.48065"
-                       sodipodi:role="line">É amanhã!</tspan></text>
+                       y="115.1153"
+                       x="-25.84783"
+                       sodipodi:role="line">É hoje!</tspan></text>
                   <text
                      sodipodi:linespacing="125%"
                      id="text4005-36-2-2"
@@ -5599,7 +5548,7 @@
                      x="-318.8566"
                      style="font-size:58.67459869px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.96300006;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4808-3-6-6);font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
                      xml:space="preserve"
-                     transform="matrix(0.53976509,0,0,0.53976509,-128.72655,338.95873)"><tspan
+                     transform="matrix(1.5956697,0,0,1.5956697,549.89008,-804.66576)"><tspan
                        style="stroke-width:3.96300006"
                        id="tspan4011-0-6-5"
                        y="681.27588"
@@ -5608,13 +5557,13 @@
                   <text
                      sodipodi:linespacing="125%"
                      id="text4005-3-5-5-7"
-                     y="706.31213"
-                     x="-300.82458"
-                     style="font-size:31.6704998px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
+                     y="281.31537"
+                     x="41.128712"
+                     style="font-size:93.62528229px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
                      xml:space="preserve"><tspan
                        id="tspan4011-2-9-1-0"
-                       y="706.31213"
-                       x="-300.82458"
+                       y="281.31537"
+                       x="41.128712"
                        sodipodi:role="line">Na PUC a partir das 9h</tspan></text>
                 </g>
               </g>
@@ -5638,7 +5587,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.27155224,0,0,0.27155224,-107.63396,884.58042)"
+       transform="matrix(0.80277086,0,0,0.80277086,-304.41686,537.39601)"
        id="g6570-9">
       <text
          sodipodi:linespacing="125%"
@@ -5738,7 +5687,7 @@
     </g>
     <g
        id="g20264"
-       transform="matrix(1.5741785,0,0,1.5741785,115.79551,-143.26844)">
+       transform="matrix(4.6536336,0,0,4.6536336,356.09203,-2501.1616)">
       <g
          transform="matrix(0.64912852,0,0,0.64912852,-52.197037,176.63691)"
          id="g19158">
@@ -18799,7 +18748,7 @@
     <g
        style="font-size:62.99098969px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:54.99901581px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
        id="g4251"
-       transform="matrix(0.51604327,0,0,0.51604327,430.15487,712.56455)">
+       transform="matrix(1.5255426,0,0,1.5255426,1285.4106,28.877544)">
       <g
          id="g3828"
          transform="translate(-170.65368,-17.065368)">

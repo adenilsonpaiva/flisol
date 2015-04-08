@@ -10,13 +10,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="400"
-   height="400"
+   width="1200"
+   height="1200"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="contador-curitiba-09-dias.svg"
-   inkscape:export-filename="/home/phls/Dropbox/eventos/flisol/2015/banners/contador/contador-curitiba-09-dias.png"
+   sodipodi:docname="contador-curitiba-08-dias.svg"
+   inkscape:export-filename="/home/phls/Dropbox/eventos/flisol/2015/comunicacao-curitiba/contador/contador-curitiba-08-dias.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -654,7 +654,7 @@
        fx="340.39548"
        fy="649.98431"
        r="453.19284"
-       gradientTransform="matrix(0.45526608,0,0,0.46085582,44.311786,650.39985)"
+       gradientTransform="matrix(1.3470491,0,0,1.3635881,144.90256,-155.96064)"
        gradientUnits="userSpaceOnUse" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
@@ -1432,15 +1432,6 @@
        inkscape:vp_z="744.09448 : 526.18109 : 1"
        inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
        id="perspective387" />
-    <filter
-       inkscape:collect="always"
-       id="filter5366"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         id="feGaussianBlur5368"
-         stdDeviation="2.7286441" />
-    </filter>
     <linearGradient
        id="linearGradient3843">
       <stop
@@ -1762,33 +1753,6 @@
        fx="-13397.574"
        fy="-313.87469"
        r="432.04001" />
-    <filter
-       inkscape:collect="always"
-       id="filter6199"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="8.2793697"
-         id="feGaussianBlur6201" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter6203"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="8.2793697"
-         id="feGaussianBlur6205" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter6249"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="5.1411094"
-         id="feGaussianBlur6251" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1018"
@@ -1983,7 +1947,7 @@
        x2="730.74109"
        y2="-3.1607144"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.50916892,0,0,0.50916892,13.536316,660.57186)" />
+       gradientTransform="matrix(1.5065377,0,0,1.5065377,57.843576,-125.86352)" />
     <filter
        color-interpolation-filters="sRGB"
        id="filter4286">
@@ -5450,9 +5414,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9899495"
+     inkscape:zoom="0.49497475"
      inkscape:cx="298.22627"
-     inkscape:cy="196.35889"
+     inkscape:cy="519.6077"
      inkscape:document-units="px"
      inkscape:current-layer="g3553"
      showgrid="false"
@@ -5481,38 +5445,38 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-652.36218)">
+     transform="translate(0,147.63782)">
     <path
        style="fill:url(#radialGradient4797);fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m -7.0410312,644.34361 412.6466412,0 0,417.71309 -412.6466412,0 z"
+       d="m -7.0410312,-173.87995 1220.9459312,0 0,1235.93665 -1220.9459312,0 z"
        id="rect2996"
        inkscape:connector-curvature="0" />
     <path
        id="path9801"
-       d="m 292.179,654.78006 -12.26778,1.03425 118.20675,76.8686 0,-77.90285 -105.93897,0 z"
+       d="m 882.29632,-143.0004 -36.29812,3.06016 349.7522,227.440129 0,-230.500289 -313.45408,0 z"
        style="opacity:0.36280488;fill:#000000;fill-opacity:1;stroke:none"
        inkscape:connector-curvature="0" />
     <path
        style="fill:url(#linearGradient9799);fill-opacity:1;stroke:none"
-       d="m 294.21568,652.74339 -12.26779,1.03425 118.20675,76.86859 0,-77.90284 -105.93896,0 z"
+       d="m 888.32249,-149.02653 -36.29815,3.06015 349.75216,227.440105 0,-230.500255 -313.45401,0 z"
        id="path9767"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:26.45416641px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.63219953;stroke-opacity:1;font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
-       x="643.68896"
-       y="379.8764"
+       style="font-size:78.27304077px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.87056279;stroke-opacity:1;font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
+       x="768.34796"
+       y="-618.80115"
        id="text3927"
        sodipodi:linespacing="125%"
        transform="matrix(0.83299504,0.55328046,-0.55328046,0.83299504,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3929"
-         x="643.68896"
-         y="379.8764"
-         style="font-weight:normal;fill:#ffffff;stroke:#ffffff;stroke-width:0.63219953;stroke-opacity:1;-inkscape-font-specification:Comfortaa">LIVRE!</tspan></text>
+         x="768.34796"
+         y="-618.80115"
+         style="font-weight:normal;fill:#ffffff;stroke:#ffffff;stroke-width:1.87056279;stroke-opacity:1;-inkscape-font-specification:Comfortaa">LIVRE!</tspan></text>
     <g
        id="g4004"
-       transform="matrix(1.1669811,0,0,1.1669811,-392.62089,-172.99203)">
+       transform="matrix(3.4528837,0,0,3.4528837,-1147.9013,-2592.2266)">
       <g
          id="g4447"
          transform="matrix(0.78587969,0,0,0.78587969,87.887182,195.49564)">
@@ -5553,7 +5517,7 @@
              transform="matrix(1.0521696,0,0,1.0521696,-94.785828,-221.12698)">
             <g
                id="g3826"
-               transform="matrix(2.0245702,0,0,2.0245702,681.7471,-581.84178)">
+               transform="matrix(5.990333,0,0,5.990333,3975.747,-3991.023)">
               <g
                  transform="matrix(0.8786165,0,0,0.8786165,-412.71586,48.193788)"
                  id="g3817">
@@ -5602,7 +5566,8 @@
                        x="-352.54584"
                        y="673.92181"
                        id="text4005-36-2-3"
-                       sodipodi:linespacing="125%"><tspan
+                       sodipodi:linespacing="125%"
+                       transform="matrix(2.9588171,0,0,2.9588171,1010.6573,-1607.3695)"><tspan
                          sodipodi:role="line"
                          x="-352.54584"
                          y="673.92181"
@@ -5610,21 +5575,21 @@
                          style="stroke-width:3.96300006">08</tspan></text>
                     <text
                        xml:space="preserve"
-                       style="font-size:58.67459869px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
-                       x="-352.52795"
-                       y="673.22595"
+                       style="font-size:173.60740662px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
+                       x="-32.408447"
+                       y="384.58301"
                        id="text4005-3-5-5-7"
                        sodipodi:linespacing="125%"><tspan
                          sodipodi:role="line"
-                         x="-352.52795"
-                         y="673.22595"
+                         x="-32.408447"
+                         y="384.58301"
                          id="tspan4011-2-9-1-7">08</tspan></text>
                   </g>
                 </g>
               </g>
               <g
                  id="g3839"
-                 transform="matrix(1.084483,0,0,1.084483,1071.2206,-123.84157)">
+                 transform="matrix(3.2087869,0,0,3.2087869,2486.435,-2546.6016)">
                 <g
                    id="g3582"
                    transform="translate(187.04316,-16.534202)">
@@ -5663,7 +5628,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.27155224,0,0,0.27155224,-107.63396,884.58042)"
+       transform="matrix(0.80347342,0,0,0.80347342,-304.67711,536.93684)"
        id="g6570-9">
       <text
          sodipodi:linespacing="125%"
@@ -5763,7 +5728,7 @@
     </g>
     <g
        id="g20264"
-       transform="matrix(1.5741785,0,0,1.5741785,115.79551,-143.26844)">
+       transform="matrix(4.6577063,0,0,4.6577063,356.40983,-2504.28)">
       <g
          transform="matrix(0.64912852,0,0,0.64912852,-52.197037,176.63691)"
          id="g19158">
@@ -18824,7 +18789,7 @@
     <g
        style="font-size:62.99098969px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:54.99901581px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
        id="g4251"
-       transform="matrix(0.51604327,0,0,0.51604327,430.15487,712.56455)">
+       transform="matrix(1.5268777,0,0,1.5268777,1286.5417,27.97334)">
       <g
          id="g3828"
          transform="translate(-170.65368,-17.065368)">
