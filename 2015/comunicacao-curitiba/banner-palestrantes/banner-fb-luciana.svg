@@ -5504,7 +5504,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -19010,7 +19010,7 @@
          sodipodi:role="line"
          id="tspan5099"
          x="472.34781"
-         y="388.0914">CONFIRMADO!</tspan></text>
+         y="388.0914">CONFIRMADA!</tspan></text>
     <image
        y="418.31354"
        x="31.969976"
